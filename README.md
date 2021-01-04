@@ -7,7 +7,7 @@
 [![coverage](https://coveralls.io/repos/github/sequeljs/omi/badge.svg?branch=main)](https://coveralls.io/github/sequeljs/omi?branch=main)
 [![license](https://img.shields.io/github/license/sequeljs/omi)](https://github.com/sequeljs/omi/blob/main/LICENSE.md)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/sequeljs/omi/blob/main/CODE_OF_CONDUCT.md)
 
 ## Installation
 
